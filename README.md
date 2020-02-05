@@ -14,6 +14,8 @@ nums1 = [1, 3]
 nums2 = [2]
 
 The median is 2.0
+
+
 Example 2:
 
 nums1 = [1, 2]
